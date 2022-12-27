@@ -1,3 +1,2 @@
 - 👋 Hi, I’m "Ibrahim Afzal"
-- 👀 I’m interested in to develop websites with React.js, Redux, Firebase, mongodb, tailwind and bootstrap 
-- 📫 How to reach me ...
+- 👀 I’m interested in to develop websites with React.js, Redux, Firebase, mongodb, tailwind and bootstrap.
