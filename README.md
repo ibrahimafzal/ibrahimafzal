@@ -5,9 +5,9 @@
 - About : i'm frontend developer, i create web pages with UI/UX user interface, i've years of experience
           and many clients are happy with the projects carried out
 
-Experience : 3 Years
-Completed : 15 Projects
-Support : 24/7 online
+- Experience : 3 Years
+- Completed : 15 Projects
+- Support : 24/7 online
 
 Skills 
 - Frontend Development ==>
