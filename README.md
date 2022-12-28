@@ -9,8 +9,7 @@ Experience : 3 Years
 Completed : 15 Projects
 Support : 24/7 online
 
-Skills
-- Frontend Development ==>
+Skills - Frontend Development ==>
 (1) HTML
 (2) CSS
 (3) Javascript
