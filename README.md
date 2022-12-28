@@ -1,3 +1,3 @@
 - Hi, I’m "Ibrahim Afzal"
 - Email : ibrahimtech2015@gmail.com
-- I’m interested in to develop websites with React.js, Redux, Firebase, mongodb, tailwind and bootstrap.
+- I’m interested in to develop websites with HTML, CSS, Javascript, React.js, Redux, Firebase, mongodb, tailwind and bootstrap.
