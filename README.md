@@ -1,5 +1,5 @@
 - Hi, I’m "Ibrahim Afzal"
-- Email : ibrahimtech2015@gmail.com
+- Email : linktoibrahim@gmail.com
 - WhatsApp : +923107739779
 
 - About : i'm frontend developer, i create web pages with UI/UX user interface, i've years of experience
