@@ -18,8 +18,3 @@ Skills
 (5) React Js
 (6) Tailwind
 (7) Bootstrap
-
-- Backend Development ==>
-(1) Firebase
-(2) Mongodb
-(3) Node Js
