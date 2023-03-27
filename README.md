@@ -5,7 +5,7 @@
 - About : i'm frontend developer, i create web pages with UI/UX user interface, i've 1.6 years of experience
           and many clients are happy with the projects carried out
 
-- Experience : 1.6 Years
+- Experience : ONE Years
 - Completed : 20+ Projects
 - Support : 24/7 online
 
@@ -18,3 +18,6 @@ Skills
 (5) React Js
 (6) Tailwind
 (7) Bootstrap
+(8) Styled-component
+(9) Meterial-UI
+(10) SASS
