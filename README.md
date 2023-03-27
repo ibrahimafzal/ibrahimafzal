@@ -2,7 +2,7 @@
 - Email : linktoibrahim@gmail.com
 - WhatsApp : +923107739779
 
-- About : i'm frontend developer, i create web pages with UI/UX user interface, i've 1.6 years of experience
+- About : i'm frontend developer, i create web pages with UI/UX user interface, i've ONE years of experience
           and many clients are happy with the projects carried out
 
 - Experience : ONE Years
@@ -21,3 +21,10 @@ Skills
 (8) Styled-component
 (9) Meterial-UI
 (10) SASS
+(11) axios
+(12) React-Redux
+
+
+- backend Development with 4 months experience ==>
+(1) Node.js
+(2) Express.js
