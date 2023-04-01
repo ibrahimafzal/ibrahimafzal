@@ -25,6 +25,6 @@ Skills
 (12) React-Redux
 
 
-- backend Development with 4 months experience ==>
+- backend Development with 6 months experience ==>
 (1) Node.js
 (2) Express.js
