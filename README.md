@@ -2,29 +2,26 @@
 - Email : linktoibrahim@gmail.com
 - WhatsApp : +923107739779
 
-- About : i'm frontend developer, i create web pages with UI/UX user interface, i've ONE years of experience
+- About : I'm MERN Stack Developer, I've 1.6 year of experience
           and many clients are happy with the projects carried out
 
-- Experience : ONE Years
+- Experience : 1.6 Years
 - Completed : 3+ Projects
 - Support : 24/7 online
 
 Skills 
-- Frontend Development ==>
 (1) HTML
 (2) CSS
 (3) Javascript
 (4) Git
 (5) React Js
-(6) Tailwind
-(7) Bootstrap
-(8) Styled-component
-(9) Meterial-UI
-(10) SASS
-(11) axios
-(12) React-Redux
-
-
-- backend Development with 6 months experience ==>
-(1) Node.js
-(2) Express.js
+(6) Node.js
+(7) Express.js
+(8) Mongodb.js
+(9) Tailwind
+(10) Bootstrap
+(11) Styled-component
+(12) Meterial-UI
+(13) SASS
+(14) axios
+(15) React-Redux
