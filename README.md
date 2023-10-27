@@ -2,11 +2,11 @@
 - Email : linktoibrahim@gmail.com
 - WhatsApp : +923107739779
 
-- About : I'm MERN Stack Developer, I've 2 years of experience
+- About : I'm MERN Stack Developer, I've 1 year of experience
           and many clients are happy with the projects carried out
 
-- Experience : 2 Years
-- Completed : 3+ Projects
+- Experience : 1 Year
+- Completed : 2+ Projects
 - Support : 24/7 online
 
 Skills 
