@@ -1,28 +1,54 @@
-- Hi, I’m "Muhammad Ibrahim Afzal"
-- Email: linktoibrahim@gmail.com
-- WhatsApp: +923107739779
+# Hi, I'm Ibrahim Afzal 👋
 
-- About: I'm a MERN Stack / Full Stack Developer and I've 1 year of experience
-          and many clients are happy with the projects carried out
+I'm a **MERN Stack Developer** with strong experience in **JavaScript, Next.js, React, Node.js, Express.js, and MongoDB**.  
+I enjoy building fast, user-friendly web applications and real-world tools that solve practical problems.
 
-- Experience: 1 Year
-- Completed: 2+ Projects
-- Support: 24/7 online
+---
 
-Skills 
-(1) HTML
-(2) CSS
-(3) Javascript
-(4) Git
-(5) React Js
-(6) Node.js
-(7) Express.js
-(8) MongoDB
-(9) Tailwind
-(10) Bootstrap
-(11) Styled-component
-(12) Material-UI
-(13) Next.js
-(14) Axios
-(15) Redux-Toolkit
-(16) Ruby on Rails (Worked on a real project for 2 months after learning it)
+## 🚀 What I’m Building
+
+I’m currently building **ImageFixPro** — a free online platform for PDF and image tools.
+
+🔗 Website: https://www.imagefixpro.com
+
+### Tools available on ImageFixPro:
+- Compress PDF online
+- Merge & split PDF files
+- Rotate & remove PDF pages
+- Convert **PDF to Excel**
+- Convert **PDF to Word**
+- Word to PDF & Excel to PDF
+- Compress images online
+- JPG to PNG image conversion
+
+All tools work directly in the browser with no sign-up required.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React, JavaScript, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, Vercel, Cloudflare  
+
+---
+
+## 🌱 What I Focus On
+
+- Building scalable web applications  
+- Performance & SEO optimization  
+- Clean UI/UX  
+- Client-side file processing tools  
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://ibrahimafzalportfolio.pages.dev/
+- LinkedIn: https://www.linkedin.com/
+- GitHub: https://github.com/ibrahimafzal
+
+---
+
+⭐ If you like my work, feel free to explore my repositories or connect with me.
