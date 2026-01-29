@@ -45,8 +45,8 @@ All tools work directly in the browser with no sign-up required.
 
 ## 📫 Connect With Me
 
-- Portfolio: https://ibrahimafzalportfolio.pages.dev/
-- LinkedIn: https://www.linkedin.com/
+- Portfolio: https://ibrahimafzal.pages.dev/
+- LinkedIn: https://www.linkedin.com/in/muhammad-ibrahim-afzal-552861257/
 - GitHub: https://github.com/ibrahimafzal
 
 ---
